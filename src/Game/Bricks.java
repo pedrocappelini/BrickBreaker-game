@@ -1,8 +1,6 @@
 package Game;
 
 import java.awt.*;
-import java.util.Random;
-
 import static Game.Main.ball;
 
 public class Bricks {
